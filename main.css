@@ -1,0 +1,28 @@
+.formulario{
+    padding: 20%;
+    background-color: rgb(102, 111, 225);
+    border: solid 2px red;
+    border-radius: 25px;
+}
+
+.inputName{
+padding: 10px;
+margin-left: 20px;
+margin-bottom: 20px;
+box-shadow: 0 5px 5px 0;
+}
+
+.inputPassword{
+    padding: 10px;
+    box-shadow: 0 5px 5px 0;
+    }
+
+.labelName, .labelPassword{
+    font-size: 1.2rem;
+}
+
+.submitLogin{
+    padding: 10px;
+    background-color: darkgoldenrod;
+    box-shadow: 0 5px 5px 0;
+}
